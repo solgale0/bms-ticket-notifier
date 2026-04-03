@@ -14,7 +14,7 @@
       "date": "20260405",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "ALUC|472|20260405|PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -37,7 +37,7 @@
     "20260403": "BOOKABLE",
     "20260404": "AVAILABLE",
     "20260405": "AVAILABLE",
-    "20260406": "NOT_OPEN",
+    "20260406": "AVAILABLE",
     "20260407": "NOT_OPEN",
     "20260408": "NOT_OPEN",
     "20260409": "NOT_OPEN"
