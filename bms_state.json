@@ -54,7 +54,7 @@
       "date": "20260424",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFS|38782|20260424|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -72,19 +72,19 @@
       "price": "600.00",
       "status": "0"
     },
-    "PIIC|26711|20260424|PRIME ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "11:20 AM",
-      "date": "20260424",
-      "cat": "PRIME ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
     "PIIC|26711|20260424|LOUNGERS ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
       "time": "11:20 AM",
       "date": "20260424",
       "cat": "LOUNGERS ROWS",
+      "price": "400.00",
+      "status": "3"
+    },
+    "PIIC|26711|20260424|PRIME ROWS": {
+      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+      "time": "11:20 AM",
+      "date": "20260424",
+      "cat": "PRIME ROWS",
       "price": "400.00",
       "status": "3"
     },
@@ -96,19 +96,19 @@
       "price": "600.00",
       "status": "0"
     },
-    "PIIC|26713|20260424|LOUNGERS ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "05:10 PM",
-      "date": "20260424",
-      "cat": "LOUNGERS ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
     "PIIC|26713|20260424|PRIME ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
       "time": "05:10 PM",
       "date": "20260424",
       "cat": "PRIME ROWS",
+      "price": "400.00",
+      "status": "3"
+    },
+    "PIIC|26713|20260424|LOUNGERS ROWS": {
+      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+      "time": "05:10 PM",
+      "date": "20260424",
+      "cat": "LOUNGERS ROWS",
       "price": "400.00",
       "status": "3"
     },
@@ -174,7 +174,7 @@
       "date": "20260424",
       "cat": "RECLINER ROWS",
       "price": "354.00",
-      "status": "1"
+      "status": "0"
     },
     "ILKS|3998|20260424|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -192,14 +192,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "ILKS|4000|20260424|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "04:40 PM",
-      "date": "20260424",
-      "cat": "LOUNGER ROWS",
-      "price": "354.00",
-      "status": "3"
-    },
     "ILKS|4000|20260424|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "04:40 PM",
@@ -208,12 +200,12 @@
       "price": "354.00",
       "status": "2"
     },
-    "ILKS|4000|20260424|PRIME ROWS": {
+    "ILKS|4000|20260424|LOUNGER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "04:40 PM",
       "date": "20260424",
-      "cat": "PRIME ROWS",
-      "price": "295.00",
+      "cat": "LOUNGER ROWS",
+      "price": "354.00",
       "status": "3"
     },
     "ILKS|4000|20260424|CLASSIC ROWS": {
@@ -221,6 +213,14 @@
       "time": "04:40 PM",
       "date": "20260424",
       "cat": "CLASSIC ROWS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ILKS|4000|20260424|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "04:40 PM",
+      "date": "20260424",
+      "cat": "PRIME ROWS",
       "price": "295.00",
       "status": "3"
     },
@@ -582,7 +582,7 @@
       "date": "20260425",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "3"
+      "status": "1"
     },
     "PVFS|38783|20260425|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -598,7 +598,7 @@
       "date": "20260425",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "3"
+      "status": "1"
     },
     "PVFS|38785|20260425|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -614,7 +614,7 @@
       "date": "20260425",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "PVFS|38786|20260425|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -630,7 +630,7 @@
       "date": "20260425",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "PVFS|38787|20260425|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -736,14 +736,6 @@
       "price": "400.00",
       "status": "3"
     },
-    "ILKS|4003|20260425|RECLINER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:50 AM",
-      "date": "20260425",
-      "cat": "RECLINER ROWS",
-      "price": "354.00",
-      "status": "2"
-    },
     "ILKS|4003|20260425|LOUNGER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:50 AM",
@@ -751,6 +743,14 @@
       "cat": "LOUNGER ROWS",
       "price": "354.00",
       "status": "3"
+    },
+    "ILKS|4003|20260425|RECLINER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "10:50 AM",
+      "date": "20260425",
+      "cat": "RECLINER ROWS",
+      "price": "354.00",
+      "status": "2"
     },
     "ILKS|4003|20260425|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -784,19 +784,19 @@
       "price": "354.00",
       "status": "1"
     },
-    "ILKS|4005|20260425|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "04:40 PM",
-      "date": "20260425",
-      "cat": "CLASSIC ROWS",
-      "price": "295.00",
-      "status": "3"
-    },
     "ILKS|4005|20260425|PRIME ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "04:40 PM",
       "date": "20260425",
       "cat": "PRIME ROWS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ILKS|4005|20260425|CLASSIC ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "04:40 PM",
+      "date": "20260425",
+      "cat": "CLASSIC ROWS",
       "price": "295.00",
       "status": "3"
     },
@@ -848,19 +848,19 @@
       "price": "354.00",
       "status": "3"
     },
-    "ILKS|4007|20260425|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:30 PM",
-      "date": "20260425",
-      "cat": "PRIME ROWS",
-      "price": "295.00",
-      "status": "3"
-    },
     "ILKS|4007|20260425|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:30 PM",
       "date": "20260425",
       "cat": "CLASSIC ROWS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ILKS|4007|20260425|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "10:30 PM",
+      "date": "20260425",
+      "cat": "PRIME ROWS",
       "price": "295.00",
       "status": "3"
     },
@@ -1174,7 +1174,7 @@
       "date": "20260426",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "PVFS|38790|20260426|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -1224,19 +1224,19 @@
       "price": "600.00",
       "status": "0"
     },
-    "PIIC|26734|20260426|PRIME ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "05:10 PM",
-      "date": "20260426",
-      "cat": "PRIME ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
     "PIIC|26734|20260426|LOUNGERS ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
       "time": "05:10 PM",
       "date": "20260426",
       "cat": "LOUNGERS ROWS",
+      "price": "400.00",
+      "status": "3"
+    },
+    "PIIC|26734|20260426|PRIME ROWS": {
+      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+      "time": "05:10 PM",
+      "date": "20260426",
+      "cat": "PRIME ROWS",
       "price": "400.00",
       "status": "3"
     },
@@ -1288,14 +1288,6 @@
       "price": "400.00",
       "status": "3"
     },
-    "ILKS|4008|20260426|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:50 AM",
-      "date": "20260426",
-      "cat": "LOUNGER ROWS",
-      "price": "354.00",
-      "status": "3"
-    },
     "ILKS|4008|20260426|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:50 AM",
@@ -1304,12 +1296,12 @@
       "price": "354.00",
       "status": "3"
     },
-    "ILKS|4008|20260426|PRIME ROWS": {
+    "ILKS|4008|20260426|LOUNGER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:50 AM",
       "date": "20260426",
-      "cat": "PRIME ROWS",
-      "price": "295.00",
+      "cat": "LOUNGER ROWS",
+      "price": "354.00",
       "status": "3"
     },
     "ILKS|4008|20260426|CLASSIC ROWS": {
@@ -1317,6 +1309,14 @@
       "time": "10:50 AM",
       "date": "20260426",
       "cat": "CLASSIC ROWS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ILKS|4008|20260426|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "10:50 AM",
+      "date": "20260426",
+      "cat": "PRIME ROWS",
       "price": "295.00",
       "status": "3"
     },
@@ -1352,14 +1352,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "ILKS|4011|20260426|RECLINER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "07:35 PM",
-      "date": "20260426",
-      "cat": "RECLINER ROWS",
-      "price": "354.00",
-      "status": "3"
-    },
     "ILKS|4011|20260426|LOUNGER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "07:35 PM",
@@ -1367,6 +1359,14 @@
       "cat": "LOUNGER ROWS",
       "price": "354.00",
       "status": "3"
+    },
+    "ILKS|4011|20260426|RECLINER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "07:35 PM",
+      "date": "20260426",
+      "cat": "RECLINER ROWS",
+      "price": "354.00",
+      "status": "2"
     },
     "ILKS|4011|20260426|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -1384,14 +1384,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "ILKS|4012|20260426|RECLINER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:30 PM",
-      "date": "20260426",
-      "cat": "RECLINER ROWS",
-      "price": "354.00",
-      "status": "3"
-    },
     "ILKS|4012|20260426|LOUNGER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:30 PM",
@@ -1400,12 +1392,12 @@
       "price": "354.00",
       "status": "3"
     },
-    "ILKS|4012|20260426|CLASSIC ROWS": {
+    "ILKS|4012|20260426|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:30 PM",
       "date": "20260426",
-      "cat": "CLASSIC ROWS",
-      "price": "295.00",
+      "cat": "RECLINER ROWS",
+      "price": "354.00",
       "status": "3"
     },
     "ILKS|4012|20260426|PRIME ROWS": {
@@ -1413,6 +1405,14 @@
       "time": "10:30 PM",
       "date": "20260426",
       "cat": "PRIME ROWS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ILKS|4012|20260426|CLASSIC ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "10:30 PM",
+      "date": "20260426",
+      "cat": "CLASSIC ROWS",
       "price": "295.00",
       "status": "3"
     },
